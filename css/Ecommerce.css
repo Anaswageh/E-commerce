@@ -270,19 +270,20 @@ body {
   text-align: start;
   font-size: 50px;
   margin-bottom: 35px;
+  margin-left: 10px;
 }
 
 .slider-5 .slider-5-text h5 {
   display: flex;
   text-align: start;
   font-size: 20px;
-
+margin-left: 10px;
 }
 
 .slider-5-img {
   position: absolute;
   top: 0;
-  right: 2%;
+  right: 3%;
   display: flex;
   align-items: start;
   justify-content: start;
