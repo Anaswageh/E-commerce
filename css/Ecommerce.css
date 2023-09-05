@@ -49,7 +49,10 @@ body {
   text-align: center;
   flex-direction: row;
 }
-
+.right-nav-1{
+  display: flex;
+  justify-content: end;
+}
 .nav-line {
   border-left: 1px solid #2c2b2bbb;
   margin-left: 10px;

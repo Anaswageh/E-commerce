@@ -4,13 +4,12 @@
     color: white;
     list-style: none;
     display: flex;
-    justify-content: start;
+        justify-content: end;
     }
+  
 }
 @media (min-width:767px) and (max-width:870px){
-    .right-nav-1 ul{
-        margin-right: 50px;
-    }
+    
 }
 @media  (max-width:992px){
     .left-nav-1{
